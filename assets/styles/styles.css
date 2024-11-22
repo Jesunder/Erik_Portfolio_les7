@@ -18,3 +18,26 @@ hr{
 ul, li {
     list-style: none;
 }
+
+.modeling-process {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.content-container {
+    margin: 10px; /* Unique margin around the entire block */
+    padding: 20px; /* Inner padding for better spacing */
+    border: 1px solid #d3d3d3; /* Example border color */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+
+
+.container_layout1{
+    max-width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+}

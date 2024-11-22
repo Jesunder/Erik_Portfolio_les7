@@ -4,7 +4,7 @@
       <div class="pr-5 z-100">
         <Drawer />
       </div>
-      <div class="container">
+      <div class="container_layout1">
         <h1 class="text-3xl md:text-3xl lg:text-6xl lg:mb-10 font-bold">{{ data.title }}</h1>
         <p class="text-lg md:text-2xl lg:text-xl pb-10 font-bold">{{ data.description }}</p>
 

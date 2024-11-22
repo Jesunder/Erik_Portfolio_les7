@@ -12,11 +12,11 @@ body {
     }
     /* */
     .dark-mode body {
-    background-color: #161715;
-    color: #ebf4f1;
+    background-color: #242222;
+    color: #fff1e1;
     }
     .dark-mode .backcolor{
-        background-color: #161715;
+        background-color: #242222;
     }
     .dark-mode .el-drawer {
         background-color: rgba(30, 30, 30, 0.98);

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Example - blog entry 1
+title: blog
 subtitle: Subtitle example - blog entry 1
 tags:
   - Tag 1
   - Tag 3
   - Tag 2
-thumbnail: /img/pat-krupa-oM9L2V90-i4-unsplash.jpg
+thumbnail: /img/Ex1.jpg
 date: 2024-11-15T14:18:09.679Z
 author: John Jones
 numbernavigation: 1

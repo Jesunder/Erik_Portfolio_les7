@@ -1,21 +1,33 @@
 ---
 layout: default
-title: "Nuxt Decap / Student "
-subtitle: Demo
+title: "Erik Sergeev "
+subtitle: portfolio
+
 tags:
   - Tag 1
   - Tag 3
   - Tag 2
-thumbnail: /img/pierre-chatel-innocenti-amlcrqr6wns-unsplash.jpg
+thumbnail: /img/bg.jpg
 date: 2024-11-17T11:32:11.103Z
 numbernavigation: 0
 layoutblog: layout2
-description: Nuxt Decap is a content management system designed for creating
-  datasets and visualizing and publishing data within an application.
+description: Designing with Purpose, Crafting for Impact. Discover what this portfolio has to offer you. From Design prints to 3D moddeling.  
 promoted: 0
 ---
-The GitHub repository [Nuxt-decap-students](https://github.com/bureaupixel/Nuxt-decap-students) is designed for creating a static site using Nuxt 3, Tailwind CSS, and Decap CMS. It serves as a template for managing online publications, blogposts and image collections.
 
-Students can use this repostory as a starting point to build blogs, procesfolio's and image collections.
+## Welcome to My Portfolio
+Hi, I’m Erik—a passionate designer, 3D modeler, and programmer. With a strong foundation in creativity and precision, I specialize in crafting visually compelling designs, realistic 3D models, and functional digital solutions.
 
-**Click here for [installation instructions](https://bpedu2425.netlify.app/folders/startguide/page7)**
+<br>
+
+Through my work, I aim to merge form and function, delivering results that not only look stunning but also solve problems effectively. Explore my portfolio to see projects ranging from intricate 3D designs to interactive applications.
+
+<br>
+
+Let’s bring ideas to life together!
+
+<br>
+
+
+
+**Click here for [My Github Repository](https://github.com/Jesunder/Erik_Portfolio_les7)**
