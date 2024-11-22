@@ -24,7 +24,7 @@ description: I’m Erik, a multi-disciplinary designer with a passion for creati
 <br>
 <br>
 
-As a hard worker, I strive to deliver results in everything I do, constantly learning and improving my techniques to stay ahead of trends and meet clients' needs. My design philosophy revolves around blending creativity with practicality, ensuring that every project not only looks good but works seamlessly.
+I focus on delivering strong results by continuously improving my skills and staying up-to-date with trends. My goal is to create designs that balance creativity with practicality, ensuring they look great and function effectively.
 
 
 <br>
